@@ -8,7 +8,7 @@
 
 <h3>Connnect with me</h3>
 
-[![AboutMe](https://img.shields.io/badge/ABOUT_ME-000000?style=for-the-badge&logo=archlinux&logoColor=white)](https://about-thedarkmrx.vercel.app/)
+[![AboutMe](https://img.shields.io/badge/ABOUT_ME-000000?style=for-the-badge&logo=archlinux&logoColor=white)](https://about-thedarkmrx.is-a.dev/)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thedarkmrx)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-ocampo-lopez)
 [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.ocampo.info@gmail.com)
