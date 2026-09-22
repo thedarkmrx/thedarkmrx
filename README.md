@@ -38,7 +38,7 @@ I value simple and organized structure, good performance, minimalism, and long-t
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/INSOMNIA-000000?style=for-the-badge&logo=insomnia&logoColor=white)
-![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Penpot](https://img.shields.io/badge/PENPOT-000000?style=for-the-badge&logo=penpot&logoColor=white)
 
 <h3>Frontend</h3>
 
