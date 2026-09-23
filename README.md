@@ -53,7 +53,6 @@ I value simple and organized structure, good performance, minimalism, and long-t
 **Frameworks and Libraries**
 
 ![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next JS](https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chakra](https://img.shields.io/badge/CHAKRA-000000?style=for-the-badge&logo=chakraui&logoColor=white)
@@ -84,7 +83,6 @@ I value simple and organized structure, good performance, minimalism, and long-t
 ![Render](https://img.shields.io/badge/RENDER-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
